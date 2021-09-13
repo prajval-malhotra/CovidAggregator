@@ -6,3 +6,10 @@
 * Used React Native to create the fronend.
 * Created REST API with Node.js, Express.js, and MongoDB for the database.
 * Deployed API through Heroku at - https://resources-api-unique.herokuapp.com/api/resources 
+
+
+![Phone Screenshot 1](https://user-images.githubusercontent.com/77151703/133162987-b9b2c83d-66d8-4236-9ef3-1e809eb53727.jpg)
+
+![Phone Screenshot 2](https://user-images.githubusercontent.com/77151703/133163020-5b1ce121-ab6f-4a18-8a3a-9ef5aca4ed19.jpg)
+
+![Phone Screenshot 3](https://user-images.githubusercontent.com/77151703/133163028-0e46ef57-aec0-41b7-acaf-b9a92673e168.jpg)
