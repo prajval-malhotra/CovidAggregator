@@ -8,4 +8,5 @@
 * Deployed API through Heroku at - https://resources-api-unique.herokuapp.com/api/resources 
 
 
-<img src="https://user-images.githubusercontent.com/77151703/133162987-b9b2c83d-66d8-4236-9ef3-1e809eb53727.jpg" width="300">               <img src="https://user-images.githubusercontent.com/77151703/133163020-5b1ce121-ab6f-4a18-8a3a-9ef5aca4ed19.jpg" width="300">              <img src="https://user-images.githubusercontent.com/77151703/133163028-0e46ef57-aec0-41b7-acaf-b9a92673e168.jpg" width="300">
+<pre><img src="https://user-images.githubusercontent.com/77151703/133162987-b9b2c83d-66d8-4236-9ef3-1e809eb53727.jpg" width="300">               <img src="https://user-images.githubusercontent.com/77151703/133163020-5b1ce121-ab6f-4a18-8a3a-9ef5aca4ed19.jpg" width="300">              <img src="https://user-images.githubusercontent.com/77151703/133163028-0e46ef57-aec0-41b7-acaf-b9a92673e168.jpg" width="300">
+</pre>
